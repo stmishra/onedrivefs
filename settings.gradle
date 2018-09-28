@@ -1,0 +1,3 @@
+rootProject.name = 'onedrivefs'
+rootProject.buildFileName = 'build.gradle.kts'
+
